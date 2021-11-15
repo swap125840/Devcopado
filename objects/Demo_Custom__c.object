@@ -180,6 +180,22 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>RTRT__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>RTRT</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Value__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Value</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>swapii__c</fullName>
         <externalId>false</externalId>
         <label>swapii</label>

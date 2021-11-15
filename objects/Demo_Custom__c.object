@@ -5,9 +5,7 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-
-
-        <actionName>Accept</actionName>
+<actionName>Accept</actionName>
         <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
@@ -167,6 +165,14 @@
     <visibility>Public</visibility>
     <fields>
         <fullName>Field_One__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field One</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+<fields>
+        <fullName>Field_Three__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Field One</label>

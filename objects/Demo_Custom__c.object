@@ -5,7 +5,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
 <actionName>Accept</actionName>
+=======
+        <actionName>Accept</actionName>
+>>>>>>> 6de65c31d8012df4dea3b54b207347dc6dc4cf44
         <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
@@ -163,6 +167,17 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+<<<<<<< HEAD
+=======
+    <fields>
+        <fullName>jk__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>jk</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+>>>>>>> 6de65c31d8012df4dea3b54b207347dc6dc4cf44
     <fields>
         <fullName>Field_One__c</fullName>
         <defaultValue>false</defaultValue>
@@ -171,6 +186,7 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+<<<<<<< HEAD
 <fields>
         <fullName>Field_Three__c</fullName>
         <defaultValue>false</defaultValue>
@@ -181,6 +197,44 @@
     </fields>
 <fields>
         <fullName>Field_yuyt__c</fullName>
+=======
+    <fields>
+        <fullName>RTRT__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>RTRT</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Value__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Value</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>swapii__c</fullName>
+        <externalId>false</externalId>
+        <label>swapii</label>
+        <length>15</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>newField__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>newField</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Field_One__c</fullName>
+>>>>>>> 6de65c31d8012df4dea3b54b207347dc6dc4cf44
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Field One</label>
